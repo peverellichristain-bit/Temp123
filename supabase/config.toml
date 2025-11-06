@@ -1,1 +1,7 @@
 project_id = "achuvtuuoztfmfrzahyi"
+
+[functions.generate-outfits]
+verify_jwt = false
+
+[functions.edit-outfit]
+verify_jwt = false
